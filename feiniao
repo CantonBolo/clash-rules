@@ -1,0 +1,15 @@
+# Merge Template for clash verge
+# The `Merge` format used to enhance profile
+
+prepend-rules:
+
+prepend-proxies:
+
+prepend-proxy-groups:
+
+append-rules:
+  - DOMAIN-SUFFIX, azureedge.net, 国外流量
+
+append-proxies:
+
+append-proxy-groups:
